@@ -29,7 +29,7 @@ expo start
 
 ## Contributing 🎯
 
-This project is made by a complete beginner to React native. But I'll happy to merge pull requests. 
+This project is made by a complete beginner to React native. But I'm happy to merge pull requests. 
 
 ## License ©️
 
