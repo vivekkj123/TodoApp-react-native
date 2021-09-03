@@ -4,7 +4,6 @@ This repo contains code used for developing a Todo app which helped me to learn 
 
 ## Live Demo 🙌
 
-- Click me for [Web version](https://todo-app-react-native-pi.vercel.app/)
 - Check [Releases](https://github.com/vivekkj123/TodoApp-react-native/releases/) for Android Version
 
 ## Technologies used 👨‍💻
