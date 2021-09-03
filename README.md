@@ -23,6 +23,10 @@ This repo contains code used for developing a Todo app which helped me to learn 
 ```
 git clone https://github.com/vivekkj123/TodoApp-react-native.git
 ```
+- Install required dependencies
+```
+yarn
+```
 - Start server
 ```
 expo start
