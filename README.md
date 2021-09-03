@@ -15,6 +15,7 @@ This repo contains code used for developing a Todo app which helped me to learn 
 
 - Adding new Todo's
 - Deleting existing Todo's
+- Marking completed Todo's
 
 ## Development 🤸
 
