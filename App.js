@@ -10,7 +10,13 @@ export default function App() {
     if (text == "") {
       null;
     } else {
-      const newTodos = [{ id: Math.random().toString(), item: text }, ...todo];
+      const newTodos = [
+        {
+          id: Math.random().toString(),
+          item: text,
+        },
+        ...todo,
+      ];
       settodo(newTodos);
     }
   };
@@ -46,7 +52,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#61CBFF",
+    backgroundColor: "#e6e7eb",
     paddingTop: Platform.OS === "android" ? 30 : 0,
   },
   Todolist: {
